@@ -115,7 +115,7 @@
     "nanoid": "5.1.5",
     "next": "15.2.5",
     "next-auth": "4.24.11",
-    "next-safe-action": "7.10.5",
+    "next-safe-action": "8.0.2",
     "node-fetch": "3.3.2",
     "nodemailer": "6.10.0",
     "opentelemetry": "0.1.0",
